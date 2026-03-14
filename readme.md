@@ -97,8 +97,8 @@ The project is structured into two main directories:
 
 ## Contributors
 
-- **[Abdul Wahab](https://github.com/abdul-wahab619)** - Full Stack Developer
-- **[Nafeesa Shehzadi](https://github.com/nafeesa-shehzadi)** - Frontend Developer
+- **[Prajwal Nalawade](https://github.com/prajwal-nalawade)**
+
 
 ## Collaboration
 
@@ -114,8 +114,3 @@ We welcome contributions from everyone! If you are interested in contributing to
 For major changes, please open an issue first to discuss what you would like to change.
 
 Feel free to reach out to us with any questions or suggestions. Let's collaborate to extend the exposure and impact of this project!
-
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/abdul-wahab619/AI-MedLab/blob/main/LICENSE).
